@@ -12,7 +12,7 @@ function Accordion() {
 
   return (
     <main className={styles.container}>
-      <div className={styles.header}> </div>
+      {/* <div className={styles.header}> </div> */}
       <div className={styles.accordion}>
         <div className={styles.accordion_intro}>
           <img

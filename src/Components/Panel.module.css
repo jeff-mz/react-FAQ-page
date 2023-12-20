@@ -1,0 +1,33 @@
+.panel_container {
+  border-bottom: 1px dotted #a97eaf;
+  width: 100%;
+  padding: 1rem 0rem;
+}
+.panel_intro {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.panel_title {
+  display: inline-block;
+  width: 90%;
+  font-size: 18px;
+  color: #2f1533;
+}
+.panel_btn {
+  height: fit-content;
+  width: fit-content;
+  background: none;
+  border: none;
+  outline: none;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+}
+.panel_content {
+  padding-top: 1rem;
+  color: #8c6991;
+  font-size: 15px;
+}
