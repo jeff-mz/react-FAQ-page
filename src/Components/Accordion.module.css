@@ -30,17 +30,17 @@
 }
 .accordion_intro {
   display: flex;
-  margin: 1rem 0rem;
+  margin: .8rem 0rem;
 }
 
 .accordion_star {
-  width: 25px;
-  height: 25px;
+  width: 22px;
+  height: 22px;
   margin-right: 1rem;
   margin-top: 0.3em;
 }
 .accordion_title {
-  font-size: 32px;
+  font-size: 26px;
   color: #2f1533;
 }
 .panel {
